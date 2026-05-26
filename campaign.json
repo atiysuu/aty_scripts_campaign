@@ -1,13 +1,13 @@
 {
   "enabled": true,
   "campaign": {
-    "enabled": false,
+    "enabled": true,
     "badge": "FLASH SALE",
-    "title": "Summer Sale — Up to 50% OFF",
-    "subtitle": "Tüm premium FiveM scriptlerinde sınırlı süre teklifi",
-    "description": "En gelişmiş FiveM scriptlerini inanılmaz fiyatlarla edinin. Tüm scriptlerde ömür boyu güncelleme ve özel destek dahildir.",
+    "title": "Summer Sale — Up to 20% OFF",
+    "subtitle": "All premium FiveM scripts at unbelievable prices",
+    "description": "Get the most advanced FiveM scripts at unbelievable prices. All scripts include lifetime updates and special support.",
     "cta": {
-      "label": "Alışverişe Başla",
+      "label": "Start Shopping",
       "url": "/store"
     },
     "secondaryCta": {
@@ -21,8 +21,8 @@
   "discount": {
     "enabled": false,
     "badge": "%20 İndirim",
-    "label": "Anlık İndirim",
-    "description": "Tüm ürünlerde geçerli"
+    "label": "20% Discount",
+    "description": "All products"
   },
   "coupon": {
     "enabled": true,
@@ -34,11 +34,11 @@
   "announcement": {
     "enabled": true,
     "icon": "🎉",
-    "title": "Yeni Script Yayında!",
-    "body": "ATY Scripts'in en yeni ve optimize edilmiş scripti şimdi mağazamızda!",
+    "title": "Fishing Script Released!",
+    "body": "The advanced & optimized fishing script is now available in our store!",
     "link": {
-      "label": "İncele",
-      "url": "/store"
+      "label": "Check it out",
+      "url": "/product/7443118"
     }
   }
 }
