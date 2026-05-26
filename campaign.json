@@ -1,9 +1,8 @@
-
 {
   "enabled": true,
   "campaign": {
-    "enabled": true,
-    "badge": "⚡ FLASH SALE",
+    "enabled": false,
+    "badge": "FLASH SALE",
     "title": "Summer Sale — Up to 50% OFF",
     "subtitle": "Tüm premium FiveM scriptlerinde sınırlı süre teklifi",
     "description": "En gelişmiş FiveM scriptlerini inanılmaz fiyatlarla edinin. Tüm scriptlerde ömür boyu güncelleme ve özel destek dahildir.",
@@ -20,7 +19,7 @@
     "showConfetti": false
   },
   "discount": {
-    "enabled": true,
+    "enabled": false,
     "badge": "%20 İndirim",
     "label": "Anlık İndirim",
     "description": "Tüm ürünlerde geçerli"
@@ -28,8 +27,8 @@
   "coupon": {
     "enabled": true,
     "code": "SUMMER20",
-    "label": "Kupon Kodu",
-    "description": "Checkout'ta uygulayın",
+    "label": "Coupon Code",
+    "description": "Apply at checkout",
     "copyable": true
   },
   "announcement": {
