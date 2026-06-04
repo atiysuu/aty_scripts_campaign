@@ -3,7 +3,7 @@
   "campaign": {
     "enabled": true,
     "badge": "FLASH SALE",
-    "title": "NEWSITE Sale - Up to 50% OFF",
+    "title": "SUPER20 Sale - Up to 20% OFF",
     "subtitle": "All premium FiveM scripts at unbelievable prices",
     "description": "Get the most advanced FiveM scripts at unbelievable prices. All scripts include lifetime updates and special support.",
     "cta": {
@@ -26,7 +26,7 @@
   },
   "coupon": {
     "enabled": true,
-    "code": "NEWSITE",
+    "code": "SUPER20",
     "label": "Coupon Code",
     "description": "Apply at checkout",
     "copyable": true
@@ -34,11 +34,11 @@
   "announcement": {
     "enabled": true,
     "icon": "🎉",
-    "title": "Fishing Script Released!",
-    "body": "The advanced & optimized fishing script is now available in our store!",
+    "title": "Map Editor Script Released!",
+    "body": "The advanced & optimized map editor script is now available in our store!",
     "link": {
       "label": "Check it out",
-      "url": "/product/7443118"
+      "url": "/product/7471609"
     }
   }
 }
